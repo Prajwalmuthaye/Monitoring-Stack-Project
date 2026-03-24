@@ -82,8 +82,8 @@ sudo chmod +x /usr/local/bin/docker-compose
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/monitoring-stack.git
-cd monitoring-stack
+git clone https://github.com/Prajwalmuthaye/Monitoring-Stack-Project.git
+cd Monitoring-Stack-Project
 ```
 
 ---
